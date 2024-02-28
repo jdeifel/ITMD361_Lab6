@@ -88,6 +88,11 @@ body {
   float: left;
 }
 
+#content-wrapper {
+  background-image: url("../images/repeating.png");
+  float: left;
+}
+
 #center {
   width: 900px;
   text-align: center;
