@@ -2,3 +2,18 @@ body {
   background-image: url("../images/black.jpg");
 
 }
+
+#header {
+  position: relative;
+  margin-top: 40px;
+  border-radius: 10px 10px 0px 0px; 
+}
+
+#header h1 {
+  position: absolute;
+  left: 420px;
+  top: 10px;
+  font-size: 3em;
+  font-family: 'Devonshire', cursive;
+  color: #E35335;
+}
