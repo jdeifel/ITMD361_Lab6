@@ -87,3 +87,13 @@ body {
   width: 200px;
   float: left;
 }
+
+#center {
+  width: 900px;
+  text-align: center;
+}
+
+strong {
+  font-weight: 900;
+  font-size: 48px;
+}
